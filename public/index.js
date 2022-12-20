@@ -1,5 +1,5 @@
 
-const socket = io("http://104.43.163.89:3016/")
+const socket = io("http://13.67.237.94:3016/")
 
 let producer = null
 
